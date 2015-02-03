@@ -1,12 +1,10 @@
-Freescale's Community Yocto BSP
+ROJ's Community Yocto BSP
 ===============================
 
 Supported boards
 ----------------
 
-In order to know the supported boards, please, see the release notes at
-
-   http://freescale.github.io/doc/release-notes/current/
+EZ_ROJ-1 SMARC board
 
 Quick Start Guide
 -----------------
@@ -57,4 +55,9 @@ The following layers are included on this release:
    GIT: git://github.com/Freescale/meta-fsl-demos.git
    Mailing list: https://lists.yoctoproject.org/listinfo/meta-freescale
    Note: Use [meta-fsl-demos] in subject to easy the processing
+
+ * meta-roj: support for roj boards
+   Path: sources/meta-roj
+   Project: https://github.com/ipTronix/meta-roj
+   GIT: git://github.com/ipTronix/meta-meta-roj.git
 
