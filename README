@@ -58,6 +58,6 @@ The following layers are included on this release:
 
  * meta-roj: support for roj boards
    Path: sources/meta-roj
-   Project: https://github.com/ipTronix/meta-roj
-   GIT: git://github.com/ipTronix/meta-roj.git
+   Project: https://github.com/ROJ-ITALY/meta-roj
+   GIT: git://github.com/ROJ-ITALY/meta-roj.git
 
